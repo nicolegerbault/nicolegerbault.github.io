@@ -1,11 +1,9 @@
 # Site settings
-title: Mon Univers Impitoyable l'Ina
+title: Projet Louvre INA en test
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
- Ceci est un espace pour mon Edito ...youpi :)
-baseurl: "" # the subpath of your site, e.g. /blog/
+description:   Ceci est un espace pour mon Edito ...youpi :)
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: nicolegerbault
 github_username:  nicolegerbault
 
 # Build settings
